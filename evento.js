@@ -6,7 +6,7 @@ let eventos = [
     },
     {
         "nome": "V ESOC - Encontro Sergipano da Ordem da Cavalaria",
-        "img": "vesoc.jpg",
+        "img": "vesoc.JPG",
         "descricao": "Realizado na cidade de Canindé de São Francisco-SE, no dia 28/11/2025 com a presença de diversos membros da Ordem da Cavalaria, incluindo o Ilustre Comendador Cavaleiro Pedro Bruno e o Presidente do Conselho Consultivo José Alberto. O evento contou com palestras, debates e atividades culturais, fortalecendo os laços entre os cavaleiros e promovendo a troca de conhecimentos sobre a história e as tradições da cavalaria.",
     }]
 

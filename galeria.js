@@ -76,7 +76,7 @@ let picc = [
     },
     {
         "nome": "Guilherme Silva Lemos",
-        "img": "2026icc.jpg",
+        "img": "2026icc.JPG",
         "gestao": "2026",
     }
 ]
