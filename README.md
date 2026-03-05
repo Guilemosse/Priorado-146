@@ -26,4 +26,4 @@ As informações logísticas integradas ao site são:
 Frequência: Último sábado de cada mês.
 Horário: 14:00 horas.
 Local: Definido pela diretoria.
-Desenvolvido por: [Guilherme Silva Lemos"]
+Desenvolvido por: Guilherme Silva Lemos"
