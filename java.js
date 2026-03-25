@@ -7,7 +7,7 @@ let contatos = [
     },
     {
         "nome": "Luiz Gabriel Cerqueira",
-        "img": "logoprive.png",
+        "img": "alemao.jpeg",
         "cargo": "Presidente do Conselho Consultivo (PCC)",
         "Número para contato": "79 9 9132-7170"
     }]
